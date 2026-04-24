@@ -41,6 +41,6 @@ Si quieres probarlo en tu máquina:
 
 ---
 <p align="center">
-  <b>Desarrollado con ❤️ por tu nombre</b><br>
+  <b>Desarrollado con ❤️ Khabala</b><br>
   <i>Full Stack Developer | Backend Enthusiast</i>
 </p>
