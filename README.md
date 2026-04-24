@@ -1,4 +1,4 @@
-# 🚀 Java Notification & Report Service
+#   Java Notification & Report Service
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##   Tech Stack
 Aquí están las herramientas que elegí para este proyecto y por qué:
 
 | Tecnología | Propósito |
@@ -24,10 +24,10 @@ Aquí están las herramientas que elegí para este proyecto y por qué:
 
 ---
 
-## ⚡ Lo que hace especial a este servicio
+##   Lo que hace especial a este servicio
 Lo más importante aquí es el uso de **`@Async`**. Cuando pides enviar un correo, la API te responde al instante que ya empezó el proceso, mientras que el envío real ocurre en un hilo separado. Esto es vital para que una aplicación se sienta rápida y profesional.
 
-## 🚀 Cómo ponerlo a correr
+##   Cómo ponerlo a correr
 Si quieres probarlo en tu máquina:
 
 1.  Clona el repo o descarga la carpeta.
